@@ -1,7 +1,7 @@
 
 import {
     Data, 
-  } from '.';
+  } from './Data';
   
 export class Datum extends Data{
     #value ; 
