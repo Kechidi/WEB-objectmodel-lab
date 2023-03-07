@@ -1,17 +1,6 @@
-const fs = require('fs').promises;
-
 import {
-  Data,
-} from '.';
-
-
-let data;
-beforeAll(async () => {
-  data = await fs.readFile('./resources/sensors_data.json', {
-    encoding: 'utf8',
-  });
-  data = JSON.parse(data);
-});
+  Data
+} from './Data';
 
 describe('Tests of Data',() => {
     test('is a number' , ()=> {
