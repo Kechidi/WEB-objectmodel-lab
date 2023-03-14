@@ -8,7 +8,7 @@
 
 |Nom|Prénom|login|email|
 |--|--|--|--|
-| ... | ... | ... | ... |
+| KECHIDI | Thiziri | kt176596 | thiziri.kechidi@etu.univ-lehavre.fr |
 
 See <https://pigne.org/teaching/webdev1/lab/object-model-lab> for instructions.
 
